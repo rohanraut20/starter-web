@@ -2,7 +2,11 @@
 
 <!--
 
+<<<<<<< HEAD
+Some silly changes from master
+=======
 This changes are from bigtrouble branch
+>>>>>>> d3733fe... Fb adding some context
 -->
 <head>
 	<title> A Git hub demo </title>
