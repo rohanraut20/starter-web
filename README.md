@@ -5,3 +5,4 @@ Adding line for rabase example , more changes to myfeature branch too
 # How to contributes
 
 # Deployment
+All rights resereved @ Suma
